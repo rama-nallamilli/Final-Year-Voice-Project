@@ -1,8 +1,8 @@
-#HOW THIS PROJECT WORKS
+# HOW THIS PROJECT WORKS
 This project works by recording a clip of your voice and storing it in the file explorer as a .wav file
 for later use. It uses pythons SpeechRecognition library in order to achieve this and uses Tkinter for a 
 user interface. 
-#STEPS TO USE THE APPLICATION
+# STEPS TO USE THE APPLICATION
 1. Load up the application by running it in PyCharm an IDE that focuses on the python programing language
 2. Navigate through until you hit Record New Audio 
 3. Press the button to record new audio at this point you'll want to wait until the speak anything prompt appears
@@ -12,7 +12,7 @@ unable to improve this aspect. You will also be able to tell that the applicatio
 the Record New Audio button lighting up blue once this stops the application will stop the recording 
 4. Now you should be able to navigate to File Explorer and find the .wav file that was created through the use 
 of this application and play it back to hear your voice.
-#PROJECT ENVISIONMENT
+# PROJECT ENVISIONMENT
 This is a final year project that I developed during my time at university. The problem I attempted to 
 tackle during the course of this project is Voice Recognition and how it could be used during day to day 
 practices. I felt this needed a solution because voice authentication is a branch of Biometric Authentication 
